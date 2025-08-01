@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="AI Summarizer Logo" width="400"/>
+</p>
+
 # 🔍 AI Summarizer Chrome Extension
 
 This Chrome Extension allows users to **summarize selected text or full web pages** into a clean, medium-style format using Groq's LLMs (like `llama3-8b-8192`).
